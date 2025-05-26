@@ -10,7 +10,6 @@
 
 	<modules>
 		<module>elements</module>
-		<module>elements-demo</module>
 	</modules>
 
 </project>
